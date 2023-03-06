@@ -1,0 +1,37 @@
+
+header {
+    background-color: white;
+    text-align: center;
+    color: rgb(156, 11, 11);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+
+a {
+    margin-right: 15px;
+}
+
+main {
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+}
+
+h2{
+    color: brown;
+    font-size: 25px;
+}
+
+h3{
+    font-size: 20px;
+}
+
